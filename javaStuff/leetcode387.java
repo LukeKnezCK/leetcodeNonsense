@@ -1,4 +1,4 @@
-package javaStuff;
+
 
 class Solution {
     public static int firstUniqChar(String s) {
